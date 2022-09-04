@@ -22,11 +22,11 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 630px;
+        top: 950px;
     }
 }
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 40%;
+    margin-top: 30%;
 }
